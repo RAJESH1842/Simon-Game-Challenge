@@ -4,7 +4,7 @@ This is a web-based version of the classic **Simon Game**, built using **HTML**,
 
 ## 🚀 Demo
 
-https://rajesh1842.github.io/Simon-Game-Challenge/(Click here to PLAY)
+https://rajesh1842.github.io/Simon-Game-Challenge/  (Click here to PLAY)
 
 ---
 
